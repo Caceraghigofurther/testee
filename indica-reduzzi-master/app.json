@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "com.reduzzi.indicareduzzi", 
+    "extra": {
+      "eas": {
+        "projectId": "b213a35a-df12-4f87-a57d-8815c55acc36"
+      }
+    },
+    "android": {
+      "package": "com.reduzzi.indicareduzzi"
+    }
+  }
+}
